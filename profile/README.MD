@@ -33,6 +33,7 @@ A dificuldade na leitura de bulas com letras pequenas, o esquecimento de horári
 | **IA** | `Google Vision AI` | OCR e reconhecimento de objetos |
 | **Estilização** | `Tailwind CSS (NativeWind)` | Design responsivo e utilitário |
 | **Design** | `Figma` | Prototipagem de alta fidelidade |
+| **Organização** | `Trello` | Separar tasks e organizar entregas |
 
 ---
 
